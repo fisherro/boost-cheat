@@ -3,6 +3,7 @@
 #include <climits>
 #include <iostream>
 #include <iterator>
+#include <unordered_map>
 
 #include <boost/multiprecision/cpp_int.hpp>
 void cpp_int_example()
