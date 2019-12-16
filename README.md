@@ -7,4 +7,4 @@ A quick reference for the Boost libraries I like to use. To quickly remind mysel
 On Mac...
 
     sudo port install boost
-    export CXXFLAGS="-I/opt/include"
+    export CXXFLAGS="-I/opt/local/include"
